@@ -1,5 +1,5 @@
 # README
-This is a resume app built with a Rails 5 Graphql API and React. It includes a simple form to add new job to the resume. The seed.rb contains all my info, but you could seed it with your own, obvi.
+This is a resume app built with a Rails 5 Graphql API and React. It includes a simple form to add new jobs to the resume. The seed.rb contains all my info, but you could seed it with your own, obvi.
 
 ## Installation Instructions
 
